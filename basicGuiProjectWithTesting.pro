@@ -44,7 +44,7 @@ test {
         test/tst_testgui.h
 
     SOURCES += \
-        test/main.cpp \
+        test/test_main.cpp \
         test/tst_testgui.cpp
 
 } else {

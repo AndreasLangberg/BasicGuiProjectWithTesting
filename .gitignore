@@ -1,0 +1,5 @@
+debug/*
+release/*
+MakeFile.*
+.qmake.stash
+basicGuiProjectWithTesting.pro.user

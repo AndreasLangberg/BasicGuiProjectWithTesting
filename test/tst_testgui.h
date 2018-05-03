@@ -10,6 +10,7 @@ class testGui : public QObject
 private slots:
     void test_case1();
     void test_case1_data();
+    void test_case2();
 
 private:
     MainWindow mainWindow;

@@ -19,6 +19,10 @@ public:
 
 private:
     Ui::MainWindow *ui;
+
+private slots:
+    void newInput(const QString &text);
+    void pushedButton();
 };
 
 #endif // MAINWINDOW_H
